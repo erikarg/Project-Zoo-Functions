@@ -2,7 +2,7 @@
 
 Hi!
 
-This is my zoo functions project, developed while studying the first module (web development fundamentals) at Trybe.
+This is my zoo functions project, developed while studying the first module (web development fundamentals) at Trybe. This is the last project of the module.
 
 ## Technologies
 
